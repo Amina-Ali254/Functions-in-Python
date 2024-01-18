@@ -1,0 +1,1 @@
+# Give three more examples of Mathematical function and how they are implemented in Python?
